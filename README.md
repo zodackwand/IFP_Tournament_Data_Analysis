@@ -18,6 +18,6 @@ Use Matplotlib to plot a Pie chart: plot the percentage of challenges correctly 
 Use Matplotlib to plot a Histogram: plot overall percentage of students.
 
 
-Plot a pie chart with the overall for every challenge.
+-- Plot a pie chart with the overall for every challenge.
 
-Plot the image podiums
+-- Plot the image podiums.
