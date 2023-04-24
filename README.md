@@ -5,6 +5,8 @@ Week 23 - Tournament Data Analysis
 
 Read the dataset.
 
+Do some data inspection: info, head, tail, shape, columns, dtype.
+
 Perform some data cleaning: remove missing values if existent.
 
 Create one new column with the overall of all challenges per student.
